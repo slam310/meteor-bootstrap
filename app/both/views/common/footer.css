@@ -20,10 +20,9 @@ footer#samples-footer {
 /* Not required for template or sticky footer method. */
 
 body > .container {
-  padding: 30px 15px 0;
+  padding: 80px 15px 0;
 }
 footer#samlpes-footer > .container {
-  padding-top:15px;
   padding-right: 15px;
   padding-left: 15px;
 }
