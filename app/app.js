@@ -1,5 +1,5 @@
 if (Meteor.isClient) {
-  console.log(Meteor.settings);
+  //console.log(Meteor.settings);
 }
 
 if (Meteor.isServer) {

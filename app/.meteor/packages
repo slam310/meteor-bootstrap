@@ -7,3 +7,7 @@
 meteor-platform
 autopublish
 insecure
+iron:router
+gandev:server-eval
+less
+nemo64:bootstrap
