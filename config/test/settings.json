@@ -1,5 +1,5 @@
 {
-  "public-dev":{
+  "public-test":{
       "some key":"some value"
     }
 }

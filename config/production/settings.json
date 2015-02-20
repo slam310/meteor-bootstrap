@@ -1,5 +1,5 @@
 {
-  "public-dev":{
+  "public-prod":{
       "some key":"some value"
     }
 }
